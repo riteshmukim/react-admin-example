@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "This is the post one",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "This is the post two",
+      "publishedAt": "10-21-2020"
+    },
+    {
+      "id": 3,
+      "title": "Post 1",
+      "body": "This is the post three",
+      "publishedAt": "10-31-2020"
+    },
+    {
+      "title": "Post 4",
+      "body": "This is the post four",
+      "publishedAt": "10-10-2020",
+      "id": 4
+    },
+    {
+      "title": "blah",
+      "body": "blah blah blah",
+      "publishedAt": "2020-10-11",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ritesh Mukim",
+      "email": "riteshmukim@gmail.com"
+    },
+    {
+      "name": "letslearntogether",
+      "email": "ritesh@causematch.com",
+      "id": 2
+    }
+  ]
+}
